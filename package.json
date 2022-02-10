@@ -1,0 +1,8 @@
+{
+  "name": "death-cannon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:schne324/death-cannon.git",
+  "author": "Harris Schneiderman <schne324@gmail.com>",
+  "license": "MIT"
+}
