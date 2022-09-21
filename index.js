@@ -1,1 +1,1 @@
-var deathCannon
+var deathCannon=true
